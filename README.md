@@ -1,0 +1,1 @@
+randomowa paczka losująca randomowe znaki
